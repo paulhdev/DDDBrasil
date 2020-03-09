@@ -2,7 +2,11 @@
 
 ## App para consultar DDDs do Brasil
 
-### Para a consulta dos DDDs foi usado a seguinte API "http://ddd.pricez.com.br"
+[Veja um vídeo do App rodando](https://www.linkedin.com/posts/paulo-henrique-phdev_reactnative-activity-6642613405645619200-BMtn)
+
+### Para a consulta dos DDDs foi usado a seguinte API
+
+[DDD Pricez](http://ddd.pricez.com.br)
 
 ### O que foi usado nesse App
 
