@@ -11,7 +11,7 @@
     "postinstall": "jetify"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "formik": "^2.1.4",
     "lottie-react-native": "^3.3.2",
     "prop-types": "^15.7.2",
